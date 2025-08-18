@@ -16,8 +16,11 @@
 
 # 📊 Github Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=itzzSVR-tech&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itzzSVR-tech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzzSVR-tech&show_icons=true&locale=en&layout=compact" alt="itzzSVR-tech" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzzSVR-tech&show_icons=true&locale=en" alt="itzzSVR-tech" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzzSVR-tech&" alt="itzzSVR-tech" /></p>
 
 # 🏆 Github Trophies
 
