@@ -20,8 +20,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzzSVR-tech&show_icons=true&locale=en" alt="itzzSVR-tech" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=itzzSVR-tech" alt="GitHub Streak" /></a>
-
 # 🏆 Github Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=itzzSVR-tech&theme=onedark)
