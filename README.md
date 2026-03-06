@@ -16,9 +16,7 @@
 
 # 📊 Github Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzzSVR-tech&show_icons=true&locale=en&layout=compact" alt="itzzSVR-tech" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzzSVR-tech&show_icons=true&locale=en" alt="itzzSVR-tech" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=itzzSVR-tech&show_icons=true&locale=en" alt="itzzSVR-tech" /></p>
 
 # 🏆 Github Trophies
 
