@@ -16,6 +16,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-itzzSVRtech-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://macfolio-svr.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-itzzsvrtech-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itzzsvrtech74)
 [![Instagram](https://img.shields.io/badge/Instagram-itzzsvr._tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itzzsvr._tech)
-[![Twitter](https://img.shields.io/badge/Twitter-itzzsvrtech-E4405F?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/itzzsvrtech)
+[![X](https://img.shields.io/badge/X-itzzsvrtech-0d1117?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/itzzsvrtech)
 
 </div>
