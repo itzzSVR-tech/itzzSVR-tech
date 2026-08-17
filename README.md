@@ -25,4 +25,13 @@
 [![Followers](https://img.shields.io/github/followers/itzzSVR-tech?label=Followers&style=for-the-badge&color=0077B5&logo=github)](https://github.com/itzzSVR-tech?tab=followers)
 [![Stars](https://img.shields.io/badge/Total%20Stars-86k%2B-FFD700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itzzSVR-tech)
 
+<h3><code>svr@github ~ $ ./dsa.sh</code></h3>
+<p><b>Full Stack Developer · AI Builder · Blogger</b></p>
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/itzzSVR_tech?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
+
+</div>
+
 </div>
